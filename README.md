@@ -12,6 +12,7 @@ Monedas
 * Doge
 * Binance
 
+Mostramos los ultimos 100 dias de la Moneda Binance
 
 ![Image text](https://github.com/Oswaldoivann/API-Binance/blob/main/plot.png)
 
