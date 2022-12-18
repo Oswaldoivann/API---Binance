@@ -1,6 +1,6 @@
 # API - Binance
 
-En este ejercicio vamos a conectarnos a Binance utilizando nuestros accesos personales para comunicarnos con la API. 
+En este ejercicio vamos a conectarnos a Binance utilizando nuestros accesos personales para comunicarnos con la API. Rastrearemos unas monedas para aplicar un modelo de Simulacion que busque predecir los valores de algunas monedas, utilizando el lenguaje de programación Python. 
 
 ## Las monedas que usaremos seran las siguientes.
 
