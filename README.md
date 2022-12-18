@@ -11,3 +11,8 @@ Monedas
 * Cardano
 * Doge
 * Binance
+
+
+![Image text](https://github.com/Oswaldoivann/API-Binance/blob/main/plot.png)
+
+
