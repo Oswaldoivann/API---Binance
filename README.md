@@ -4,7 +4,7 @@ En este ejercicio vamos a conectarnos a Binance utilizando nuestros accesos pers
 
 ## Las monedas que usaremos seran las siguientes.
 
-Lista de Monedas
+Monedas
 
 * Bitcoin
 * Ethereum
